@@ -1,1 +1,1 @@
-# inventoray
+# inventoqr
